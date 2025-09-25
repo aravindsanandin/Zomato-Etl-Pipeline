@@ -5,6 +5,12 @@ The dataset contains restaurant details in Bangalore, India (sourced from Zomato
 
 ---
 
+## 📊 Dataset  
+The restaurant dataset used for this project was sourced from Kaggle:  
+[Zomato Bangalore Restaurants 2022](https://www.kaggle.com/datasets/vora1011/zomato-bangalore-restaurants-2022?resource=download)
+
+---
+
 ## 🎯 Project Goal
 - Build an **ETL pipeline** on Databricks to clean and preprocess raw restaurant data.  
 - Export **aggregated CSVs** of key metrics (KPIs).  
@@ -43,4 +49,5 @@ The dataset contains restaurant details in Bangalore, India (sourced from Zomato
    ```bash
    git clone https://github.com/<your-username>/<your-repo-name>.git
    cd <your-repo-name>
+
 
